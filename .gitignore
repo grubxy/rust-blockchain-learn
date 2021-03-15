@@ -1,0 +1,12 @@
+**/target/
+**/*.rs.bk
+*.swp
+.wasm-binaries
+**/._*
+.vscode
+.DS_Store
+.idea/
+.local
+.cargo/
+.cargo-remote.toml
+*.bin
